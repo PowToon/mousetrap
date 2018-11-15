@@ -1,3 +1,5 @@
+fixes https://powtoon.atlassian.net/browse/STUD-3342
+
 # Mousetrap
 [![CDNJS](https://img.shields.io/cdnjs/v/mousetrap.svg)](https://cdnjs.com/libraries/mousetrap)
 
